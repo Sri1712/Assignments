@@ -1,3 +1,3 @@
-# Python-Basics
+# Assignments 
 
 Python & Machine Learning Assignments.
