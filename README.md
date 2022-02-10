@@ -1,3 +1,3 @@
 # Assignments 
 
-Python & Machine Learning Assignments.
+iNeuron Python & Machine Learning Assignments.
